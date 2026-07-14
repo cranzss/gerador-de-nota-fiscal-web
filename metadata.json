@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Nota Fiscal",
+  "description": "Gerador de Nota Fiscal Eletrônica (NF-e) com cálculo de impostos, visualização e exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
